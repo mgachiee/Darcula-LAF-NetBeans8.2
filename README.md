@@ -1,6 +1,6 @@
 # Darcula-LAF-NetBeans8.2
 
-For dark mode fans programmers, this plugin is for you! This will activate the "Darcula Theme" that will make your NetBeans IDE 8.2 dark mode.
+For dark mode fans programmers, this plugin is for you! This will activate the "Darcula Theme" that will make your NetBeans IDE 8.2 dark mode.Tired of straining your eyes with NetBeans' default bright theme? This plugin is for you! Activate the popular "Darcula Theme" to transform your NetBeans IDE 8.2 into a dark mode environment, reducing eye strain and improving your coding experience.
 
 ### Installation and Usage
 
